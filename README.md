@@ -8,3 +8,10 @@
 * Folder description
   * llorma_p: Parallel LLORMA (ICML'13)
   * llorma_g: Global LLORMA (JMLR'16)
+
+* Dependecy: ```python3.5`` and see ```requirements.txt```
+
+* How to run
+```
+python train.py
+```
